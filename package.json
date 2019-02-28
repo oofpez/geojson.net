@@ -73,6 +73,7 @@
   },
   "devDependencies": {
     "@storybook/react": "^3.4.6",
+    "babel-core": "^6.26.3",
     "jest": "^23.0.1",
     "now-env": "^3.1.0",
     "standard-version": "^4.4.0",
